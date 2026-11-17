@@ -18,6 +18,7 @@ turn them into open specs and tools.
 | Repo | What it is |
 |---|---|
 | [spec](https://github.com/machine-io/spec) | 行业需求与痛点收集，沉淀为 spec / Industry requirements → written specs |
+| [archboard](https://github.com/machine-io/archboard) | 架构图看板：把各项目的架构图汇到一个地方，上传 HTML、切 tab 对比 / Architecture board: one place to see every project's architecture diagram |
 
 ## Get involved
 
